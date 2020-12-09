@@ -7,6 +7,9 @@ namespace OpenJson_Queries_App
         static void Main(string[] args)
         {
             Console.WriteLine("OpenJson_Queries_App");
+            QueryJson query = new QueryJson();
+            query.Filter();
+            Console.ReadKey();
         }
     }
 }

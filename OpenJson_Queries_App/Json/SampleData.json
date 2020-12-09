@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "Rob",
+    "Age": 25,
+    "FatherName": "Jile",
+    "Address": {
+      "Hno": "5-8-99",
+      "StreetName": "James Street",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "PIN": 501625
+    },
+    "Contact": {
+      "Mobile": 9696969696,
+      "AlternateMobile": 8686868686
+    },
+    "IntrestedMovies": [
+      {
+        "Name": "Spider Man",
+        "Language": "English"
+      },
+      {
+        "Name": "Avengers",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "Name": "Boarin",
+    "Age": 30,
+    "FatherName": "Ronikl",
+    "Address": {
+      "Hno": "6-7-12",
+      "StreetName": "Police Holds",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "PIN": 505825
+    },
+    "Contact": {
+      "Mobile": 9696969695,
+      "AlternateMobile": 8686868689
+    },
+    "IntrestedMovies": [
+      {
+        "Name": "Super Man",
+        "Language": "English"
+      },
+      {
+        "Name": "End Game",
+        "Language": "English"
+      }
+    ]
+  }
+]
